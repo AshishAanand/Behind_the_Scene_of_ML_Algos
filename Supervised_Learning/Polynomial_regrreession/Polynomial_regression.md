@@ -51,12 +51,12 @@ $$
 X = \begin{bmatrix}
 1 & 1 & 1 \\
 1 & 2 & 4 \\
-1 & 3 & 9 \\
+1 & 3 & 9
 \end{bmatrix}, \quad
 y = \begin{bmatrix}
 6 \\
 11 \\
-18 \\
+18
 \end{bmatrix}
 $$
 
@@ -128,18 +128,20 @@ $$
 ### Step 3: Compute $X^T y$
 
 $$
-X^Ty = \begin{bmatrix}
-6 + 11 + 18 = 35 \\
-1×6 + 2×11 + 3×18 = 6 + 22 + 54 = 82 \\
-1×6 + 4×11 + 9×18 = 6 + 44 + 162 = 212 \\
+X^T y = \begin{bmatrix}
+6 + 11 + 18 \\
+1 \cdot 6 + 2 \cdot 11 + 3 \cdot 18 \\
+1 \cdot 6 + 4 \cdot 11 + 9 \cdot 18\end{bmatrix}
+=\begin{bmatrix}35 \\
+6 + 22 + 54 = 82 \\
+6 + 44 + 162 = 212
 \end{bmatrix}
-=
-\begin{bmatrix}
+=\begin{bmatrix}
 35 \\
 82 \\
-212 \\
-\end{bmatrix}
+212\end{bmatrix}
 $$
+
 
 ### Step 4: Solve:
 
