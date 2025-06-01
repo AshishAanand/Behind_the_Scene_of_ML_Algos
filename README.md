@@ -59,7 +59,7 @@ Whether you're a beginner or a curious mind, this repo helps you build a **stron
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/your-username">Ashish</a>
+  Made with ❤️ by <a href="https://github.com/AshishAanand">Ashish</a>
 </p>
 
 ---
